@@ -17,3 +17,16 @@
 2023-06-09 17:34:54,458 -0400 [main] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
 2023-06-09 17:34:54,755 -0400 [main] INFO  (LoginTest_DataDriven.java:20) - Entered Username..
 2023-06-09 17:34:54,999 -0400 [main] INFO  (LoginTest_DataDriven.java:22) - Entered Password..
+2023-06-15 12:16:15,281 -0400 [main] INFO  (LoginTest.java:13) - Opened the url..
+2023-06-15 12:16:15,708 -0400 [main] INFO  (LoginTest.java:17) - Entered Username..
+2023-06-15 12:16:18,434 -0400 [main] INFO  (LoginTest.java:25) - Login Test Passed
+2023-06-15 12:16:25,713 -0400 [main] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
+2023-06-15 12:16:25,936 -0400 [main] INFO  (LoginTest_DataDriven.java:20) - Entered Username..
+2023-06-15 12:16:26,075 -0400 [main] INFO  (LoginTest_DataDriven.java:22) - Entered Password..
+2023-06-15 12:16:26,891 -0400 [main] INFO  (LoginTest_DataDriven.java:34) - Login Passed
+2023-06-15 12:16:27,880 -0400 [main] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
+2023-06-15 12:16:28,020 -0400 [main] INFO  (LoginTest_DataDriven.java:20) - Entered Username..
+2023-06-15 12:16:28,143 -0400 [main] INFO  (LoginTest_DataDriven.java:22) - Entered Password..
+2023-06-15 12:16:29,054 -0400 [main] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
+2023-06-15 12:16:29,224 -0400 [main] INFO  (LoginTest_DataDriven.java:20) - Entered Username..
+2023-06-15 12:16:29,378 -0400 [main] INFO  (LoginTest_DataDriven.java:22) - Entered Password..
