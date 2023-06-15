@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="MySuite">
+<!--verbose="1" parallel="classes" thread-count="5"-->
+<!--<listeners>-->
+<!--    <listener class-name="com.qa.utilities.Reporting"></listener>-->
+<!--</listeners>-->
+
+    <test name="NetBanking">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.qa.testCases.LoginTest"/>
+            <class name="com.qa.testCases.LoginTest_DataDriven"/>
+        </classes>
+    </test>
+</suite>

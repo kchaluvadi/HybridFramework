@@ -1,0 +1,19 @@
+2023-06-09 17:31:06,841 -0400 [TestNG-test=NetBanking-1] INFO  (LoginTest.java:13) - Opened the url..
+2023-06-09 17:31:08,619 -0400 [TestNG-test=NetBanking-1] INFO  (LoginTest.java:17) - Entered Username..
+2023-06-09 17:31:10,000 -0400 [TestNG-test=NetBanking-1] INFO  (LoginTest.java:25) - Login Test Passed
+2023-06-09 17:31:10,508 -0400 [TestNG-test=NetBanking-2] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
+2023-06-09 17:31:10,885 -0400 [TestNG-test=NetBanking-2] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
+2023-06-09 17:31:11,763 -0400 [TestNG-test=NetBanking-2] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
+2023-06-09 17:34:43,951 -0400 [main] INFO  (LoginTest.java:13) - Opened the url..
+2023-06-09 17:34:44,362 -0400 [main] INFO  (LoginTest.java:17) - Entered Username..
+2023-06-09 17:34:45,378 -0400 [main] INFO  (LoginTest.java:25) - Login Test Passed
+2023-06-09 17:34:51,517 -0400 [main] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
+2023-06-09 17:34:51,772 -0400 [main] INFO  (LoginTest_DataDriven.java:20) - Entered Username..
+2023-06-09 17:34:51,908 -0400 [main] INFO  (LoginTest_DataDriven.java:22) - Entered Password..
+2023-06-09 17:34:52,639 -0400 [main] INFO  (LoginTest_DataDriven.java:34) - Login Passed
+2023-06-09 17:34:53,497 -0400 [main] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
+2023-06-09 17:34:53,699 -0400 [main] INFO  (LoginTest_DataDriven.java:20) - Entered Username..
+2023-06-09 17:34:53,799 -0400 [main] INFO  (LoginTest_DataDriven.java:22) - Entered Password..
+2023-06-09 17:34:54,458 -0400 [main] INFO  (LoginTest_DataDriven.java:16) - Opened the url..
+2023-06-09 17:34:54,755 -0400 [main] INFO  (LoginTest_DataDriven.java:20) - Entered Username..
+2023-06-09 17:34:54,999 -0400 [main] INFO  (LoginTest_DataDriven.java:22) - Entered Password..

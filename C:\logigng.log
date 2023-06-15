@@ -1,0 +1,4 @@
+2023-06-08 20:04:31 INFO  TestLogger:13 - Opened the url..
+  2023-06-08 20:04:32 INFO  TestLogger:17 - Entered Username..
+  2023-06-08 20:04:34 INFO  TestLogger:25 - Login Test Passed
+  
